@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, rgb(255, 230, 0), orangered);
+}
+
+a{
+    text-decoration: none;
+}
+
+.link-text{
+    text-decoration: none;
+    color: rgb(255, 94, 0);
+}
+
+
+.link-header{
+    color: rgb(102, 9, 9);
+    background-image: linear-gradient(to left, rgb(255, 230, 0), orangered);
+    padding: 3.5px;
+}
+
+footer{
+   padding: 3.5px;
+   margin: 20px;
+}
